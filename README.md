@@ -7,7 +7,7 @@ This solution, if it is in the form presented here, is identical for any program
 
 '2 * n * (n - 1)' in the expression is the result of cancelling out the equal parts in the numerator and the denominator of the formula for a sum of arithmetic progression with first member '0' and a step of increase '4'.
     
-If 'n' is the designation for total number of members in the arithmetic progression, then:
+If 'n' is the designation for the total number of members in the arithmetic progression, then:
 
 n*(2*firstMember +(n-1)*stepOfIncrease)/2
 
