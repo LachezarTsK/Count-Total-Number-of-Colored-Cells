@@ -11,7 +11,7 @@ If 'n' is the designation for the total number of members in the arithmetic prog
 
 n*(2*firstMember +(n-1)*stepOfIncrease)/2
 
-and after replacing the values for 'firstMember' and 'stepOfIncrease', expression is:
+and after replacing the values for 'firstMember' and 'stepOfIncrease', the expression is:
 
 n*(2*0 +(n-1)*4)/2
 
